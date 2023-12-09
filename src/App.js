@@ -22,7 +22,7 @@ const App = () => {
     return (
         <>
             <div className="container">
-                <h2>Jaxtina - Meeting Record</h2>
+                <h2>JaxUniversal - Meeting Smart</h2>
                 <br/>
                 <p>More easy more fun 🔥.</p>
 
